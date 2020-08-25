@@ -1,7 +1,7 @@
-# Domain Adaptation Through Task Distillation
+# [Domain Adaptation Through Task Distillation](https://nimit.io/taskdistillation.pdf)
 
 ![teaser](assets/teaser.png)
-> **Domain Adaptation Through Task Distillation**  
+> [**Domain Adaptation Through Task Distillation**](https://nimit.io/taskdistillation.pdf)  
 > Brady Zhou\*, Nimit Kalra\*, Philipp Kr&auml;henb&uuml;hl,  
 > [European Conference on Computer Vision](https://eccv2020.eu) (ECCV 2020)
 
